@@ -1,0 +1,9 @@
+{
+  "name": "LimeChain-problem4",
+  "version": "0.0.1",
+  "description": "Solution to problem 4",
+  "main": "main.js",
+  "dependencies": {
+    "mathjs": "5.1.2"
+  }
+}
